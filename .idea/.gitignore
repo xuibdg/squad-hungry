@@ -1,4 +1,3 @@
-# Ignore specific files and folders
+# Default ignored files
 /shelf/
 /workspace.xml
-*.xml  # Ignore all XML files
